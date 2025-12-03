@@ -2,7 +2,7 @@
 
 ![Species Richness Map](outputs/maps/species_richness_heatmap.png)
 
-## 📋 Project Overview
+##  Project Overview
 
 This project analyzes spatial patterns of biodiversity across Pakistan using species occurrence data from the Global Biodiversity Information Facility (GBIF). Through spatial analysis and data visualization in R, I identified biodiversity hotspots, examined sampling patterns, and provided insights for conservation prioritization.
 
@@ -10,12 +10,12 @@ This project analyzes spatial patterns of biodiversity across Pakistan using spe
 **Education**
 **B.S. in Zoology**, Virtual University of Pakistan  
 **B.Sc. in Forestry**, Pakistan Forest Institute  
-**Date:** November 2025  
+**Date:** September 2025  
 **Skills Demonstrated:** R Programming, Spatial Analysis, Data Visualization, Ecological Modeling
 
 ---
 
-## 🎯 Research Questions
+##  Research Questions
 
 1. Where are the biodiversity hotspots located in Pakistan?
 2. Which regions show the highest species richness?
@@ -59,14 +59,14 @@ This project analyzes spatial patterns of biodiversity across Pakistan using spe
 
 ---
 
-## 🛠️ Methodology
+##  Methodology
 
 ### **Data Collection**
 - **Source:** GBIF.org (Global Biodiversity Information Facility)
 - **Region:** Pakistan (Country Code: PK)
 - **Initial Records:** 10,000 occurrence records
 - **Time Period:** 2024-2025
-- **Download Date:** November 2025
+- **Download Date:** September 2025
 
 ### **Data Cleaning Process**
 1. Removed records without valid coordinates (0 records)
@@ -94,7 +94,7 @@ This project analyzes spatial patterns of biodiversity across Pakistan using spe
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 ### **Spatial Analysis Maps**
 
@@ -162,7 +162,7 @@ source("scripts/04_final_visualizations.R")
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 pakistan-biodiversity-analysis/
 ├── data/
@@ -187,7 +187,7 @@ pakistan-biodiversity-analysis/
 
 ---
 
-## 🔍 Key Insights for Conservation
+##  Key Insights for Conservation
 
 ### **Priority Actions**
 1. **Protect identified hotspots:** Focus conservation resources on 12 high-diversity areas
@@ -205,7 +205,7 @@ pakistan-biodiversity-analysis/
 
 ---
 
-## 📚 References & Data Sources
+##  References & Data Sources
 
 - **GBIF.org** (2025). GBIF Occurrence Download. https://doi.org/[DOI-will-be-added]
 - **Natural Earth** (2024). Admin 0 - Countries. https://www.naturalearthdata.com/
@@ -213,7 +213,7 @@ pakistan-biodiversity-analysis/
 
 ---
 
-## 🎓 Educational Context
+##  Educational Context
 
 This project was developed to demonstrate proficiency in:
 - **Ecological data analysis** using real-world biodiversity datasets
@@ -225,7 +225,7 @@ This project was developed to demonstrate proficiency in:
 **Purpose:** Portfolio project demonstrating analytical skills for graduate school and career opportunities in ecology and conservation
 ```
 
-## 📫 Contact
+##  Contact
 
 **Syed Inzimam Ali Shah**  
 Zoology and Forestry Graduate | Wildlife Conservation Enthusiast | Aspiring Ecologist  
@@ -235,13 +235,13 @@ Zoology and Forestry Graduate | Wildlife Conservation Enthusiast | Aspiring Ecol
 
 ---
 
-## 📝 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Global Biodiversity Information Facility (GBIF)** for providing open access to biodiversity data
 - **R Community** for developing excellent open-source packages for ecological analysis
@@ -250,7 +250,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 📊 Project Statistics
+##  Project Statistics
 
 - **Lines of Code:** ~1,200 R code
 - **Analysis Duration:** 3 weeks
@@ -262,4 +262,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 *This project demonstrates the application of computational ecology and spatial analysis to biodiversity conservation in Pakistan. The methods and visualizations showcase skills essential for modern ecological research and conservation planning.*
 
-**⭐ If you find this project useful, please consider starring the repository!**
+** If you find this project useful, please consider starring the repository!**

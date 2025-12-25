@@ -2,7 +2,7 @@
 # Pakistan Biodiversity Analysis
 # Script 03: Spatial Analysis
 # Author: Syed Inzimam Ali Shah
-# Date: 2025
+# Date: Sep-Oct 2025
 # ========================================
 
 library(sf)
@@ -10,7 +10,7 @@ library(dplyr)
 library(ggplot2)
 library(viridis)
 
-setwd("C:/pakistan-biodiversity-analysis")
+setwd("C:/pakistan_biodiversity_analysis")
 
 cat("=== DAY 7: SPATIAL ANALYSIS ===\n\n")
 

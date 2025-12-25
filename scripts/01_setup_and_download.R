@@ -13,7 +13,7 @@ library(rnaturalearth)
 library(ggplot2)
 
 # Set working directory
-setwd("C:/pakistan-biodiversity-analysis")
+setwd("C:/pakistan_biodiversity_analysis")
 
 cat("=== PAKISTAN BIODIVERSITY DATA DOWNLOAD ===\n\n")
 
@@ -115,7 +115,7 @@ cat("Check your outputs/figures/ folder to see the map!\n")
 
 3. **Save the script:**
   - **File → Save As...**
-  - Navigate to: `C:/pakistan-biodiversity-analysis/scripts/`
+  - Navigate to: `C:/pakistan_biodiversity_analysis/scripts/`
 - Name: `01_setup_and_download.R`
 - Click **Save**
   

@@ -135,8 +135,8 @@ This project analyzes spatial patterns of biodiversity across Pakistan using spe
 
 1. **Clone this repository:**
 ```bash
-git clone https://github.com/[Syedinzimam]/pakistan-biodiversity-analysis.git
-cd pakistan-biodiversity-analysis
+git clone https://github.com/[Syedinzimam]/pakistan_biodiversity_analysis.git
+cd pakistan_biodiversity_analysis
 ```
 
 2. **Install required R packages:**
@@ -164,7 +164,7 @@ source("scripts/04_final_visualizations.R")
 
 ##  Project Structure
 ```
-pakistan-biodiversity-analysis/
+pakistan_biodiversity_analysis/
 ├── data/
 │   ├── raw/                    # Original GBIF data
 │   │   └── gbif_pakistan_raw.csv
